@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Agenda Escola</string>
+    <string name="bt_estudante">Sou estudante</string>
+    <string name="bt_professor">Sou professor(a)</string>
+    <string name="texto_tela1_turma">Escolha a sua série</string>
+    <string name="bt_turma1">1º Ano - Ensino Médio</string>
+    <string name="bt_turma2">2º Ano - Ensino Médio</string>
+    <string name="bt_turma3">3º Ano - Ensino Médio</string>
+    <string name="texto_tela2_turma">Escolha a sua turma</string>
+    <string name="bt_turma1_A">1º Ano A</string>
+    <string name="bt_turma2_A">2º Ano A</string>
+    <string name="bt_turma3_A">3º Ano A</string>
+    <string name="bt_turma1_B">1º Ano B</string>
+    <string name="bt_turma2_B">2º Ano B</string>
+    <string name="bt_turma3_B">3º Ano B</string>
+    <string name="bt_turma3_C">3º Ano C</string>
+    <string name="bt_turma2_C">2º Ano C</string>
+    <string name="bt_turma1_C">1º Ano C</string>
+    <string name="bt_turma1_D">1º Ano D</string>
+    <string name="bt_notificacoes">Notificações</string>
+    <string name="bt_tarefas">Tarefas pendentes</string>
+    <string name="bt_calendario">Calendário mensal</string>
+    <string name="bt_tela_inicial">Visão geral</string>
+</resources>
